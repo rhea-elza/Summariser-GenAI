@@ -14,5 +14,5 @@ Accessing the API requires an API key, which you can get by creating an account 
 ```bash
 export OPENAI_API_KEY = ""
 ```
-eg RSS feeds - https://feeds.megaphone.fm/ADL9840290619
+eg RSS feeds - https://feeds.megaphone.fm/ADL9840290619, 
                https://feeds.fireside.fm/bibleinayear/rss
