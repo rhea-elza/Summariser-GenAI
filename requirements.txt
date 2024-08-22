@@ -1,0 +1,5 @@
+openai
+langchain[all]
+newspaper3k
+beautifulsoup4
+streamlit
